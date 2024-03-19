@@ -1,4 +1,4 @@
-# Blog_Code
+## Blog_Code
 Blog em desenvolvimento, focado apenas a estudos
 
 Esse Blog eu pretendo desenvolver ele apenas a estudos, para treinar a semântica, flexbox, etc.
